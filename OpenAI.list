@@ -1,0 +1,12 @@
+HOST-SUFFIX, ai.com, OpenAI
+HOST-SUFFIX, auth0.com, OpenAI
+HOST-SUFFIX, chat.openai.com, OpenAI
+HOST-SUFFIX, oaistatic.com, OpenAI
+HOST-SUFFIX, oaiusercontent.com, OpenAI
+HOST-SUFFIX, statsigapi.net, OpenAI
+HOST-SUFFIX, openai.com, OpenAI
+HOST-SUFFIX, intercom.io, OpenAI
+HOST-SUFFIX, intercomcdn.com, OpenAI
+HOST-SUFFIX, featuregates.org, OpenAI
+HOST-SUFFIX, segment.io, OpenAI
+HOST-SUFFIX, segment.dev, OpenAI
