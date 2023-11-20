@@ -6,6 +6,7 @@ HOST-SUFFIX, oaiusercontent.com, OpenAI
 HOST-SUFFIX, statsigapi.net, OpenAI
 HOST-SUFFIX, statsig.com, OpenAI
 HOST-SUFFIX, revenuecat.com, OpenAI
+HOST-SUFFIX, browser-intake-datadoghq.com, OpenAI
 HOST-SUFFIX, openai.com, OpenAI
 HOST-SUFFIX, intercom.io, OpenAI
 HOST-SUFFIX, intercomcdn.com, OpenAI
